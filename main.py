@@ -1,4 +1,8 @@
+import random   # 10.30 update
+
 print("csicska xdddddd")
+
+
 # 10.22: ezt tényleg csak azért írtam hogy éjfél előttig legyen egy commitem
 
 # 10.23: ez is xddddd
@@ -8,4 +12,6 @@ print("csicska xdddddd")
 # 10.25: Még egy commit :DD
 
 # 10.29: Na most a hosszú hétvégén minden nap lesz coomit
-
+a = 1
+b = 6
+print(f"Random number between {a} and {b}: {random.randint(a,b)}")
