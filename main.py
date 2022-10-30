@@ -12,6 +12,7 @@ print("csicska xdddddd")
 # 10.25: Még egy commit :DD
 
 # 10.29: Na most a hosszú hétvégén minden nap lesz coomit
+
 a = 1
 b = 6
 print(f"Random number between {a} and {b}: {random.randint(a,b)}")
