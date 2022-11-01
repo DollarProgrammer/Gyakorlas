@@ -13,6 +13,9 @@ print("csicska xdddddd")
 
 # 10.29: Na most a hosszú hétvégén minden nap lesz coomit
 
-a = 1
-b = 6
-print(f"Random number between {a} and {b}: {random.randint(a,b)}")
+def ran(a, b):
+  a = 1
+  b = 6
+  return random.randint(a, b)
+
+print(f"Random number between {a} and {b}: {ran()}")
