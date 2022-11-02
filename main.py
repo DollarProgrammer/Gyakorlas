@@ -19,3 +19,5 @@ def ran(a, b):
   return random.randint(a, b)
 
 print(f"Random number between {a} and {b}: {ran()}")
+
+# 11.02: Ma 4 hónap múlva leszek 24 éves
