@@ -24,3 +24,5 @@ print(f"Random number between {a} and {b}: {ran()}")
 
 # 11.03: Má megin fáradt vagyok
 
+# 11.04: Még egy sor xdddd
+
